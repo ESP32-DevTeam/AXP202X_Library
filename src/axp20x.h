@@ -89,6 +89,7 @@ github:https://github.com/lewisxhe/AXP202X_Libraries
 #define AXP202_CHIP_ID                          (0x41)
 #define AXP192_CHIP_ID                          (0x03)
 #define AXP173_CHIP_ID                          (0xAD)     //!Axp173 does not have a chip ID, given a custom ID
+#define AXP288_CHIP_ID                          (0x11)     //AXP288C   
 
 //! Logic states
 #define AXP202_ON                               (1)
